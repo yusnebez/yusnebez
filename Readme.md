@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Javascript-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Javascript-0079BF?style=flat-square&logo=Javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Typescript-E01563?style=flat-square&logo=Slack&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Node.js-E01563?style=flat-square&logo=Slack&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Mongodb-E01563?style=flat-square&logo=Slack&logoColor=white"/>
