@@ -1,3 +1,9 @@
+# Hi I'm Zebensuy 👋
+[![Linkedin Badge](https://img.shields.io/badge/-zebensuiherrera-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zebensuiherrera/)](https://www.linkedin.com/in/zebensuiherrera/)
+[![Gmail Badge](https://img.shields.io/badge/-yusnebez-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yusnebez@gmail.com)](mailto:yusnebez@gmail.com)
+
+Welcome to my profile! I'm a Full Stack Web Developer. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/zebensuiherrera/)!
+
 <p align="center">
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
