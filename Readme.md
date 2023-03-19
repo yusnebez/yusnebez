@@ -16,6 +16,5 @@
     <img src="https://img.shields.io/badge/-Ubuntu-A80030?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
     <img src="https://img.shields.io/badge/-macOs-000000?style=for-the-badge&logo=macOs&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Jira-222F29?style=for-the-badge&logo=Jira&logoColor=white"/>
-  </p>
-  <a href="https://www.buymeacoffee.com/yusnebez1"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="yusnebez1" /></a>
+    <a href="https://www.buymeacoffee.com/yusnebez1"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50"         width="210" alt="yusnebez1" /></a>
 </p>
