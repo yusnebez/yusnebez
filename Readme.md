@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/badge/-Typescript-E01563?style=for-the-badge&logo=Typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Node.js-E01563?style=for-the-badge&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Mongodb-E01563?style=for-the-badge&logo=Mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/><br/>
     <img src="https://img.shields.io/badge/-React.js-42B883?style=for-the-badge&logo=React.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Redux.js-42B883?style=for-the-badge&logo=Redux.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white"/>
